@@ -1,0 +1,23 @@
+Trancate files:
+sudo truncate -s 0 /home/magabe/software/LearningStuff/C++/cos700/FinalPapers/smartthingsapp/logs/app.log
+
+sudo docker build -t smartthingsapp .
+
+docker run -v /home/magabe/software/LearningStuff/C++/cos700/FinalPapers/smartthingsapp:/app/log --network host smartthingsapp
+
+
+
+sudo docker build --no-cache -t smartthingsapp .
+
+sudo docker-compose up --build
+
+
+docker exec -it 40156586427f /bin/sh
+
+
+sudo apt-get update
+sudo apt-get install ufw
+
+sudo ufw allow 9200/tcp
+
+sudo ufw enable

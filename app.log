@@ -1,0 +1,73 @@
+2023-10-29 13:49:37,565 - INFO - {'Database connection established successfully by user': 'postgres'}
+2023-10-29 13:49:37,565 - INFO - ..................... Starting SmartThing APP  Version 1.0.0 ....................
+
+
+2023-10-29 13:49:37,567 - INFO - Successfully authenticated the user: user
+2023-10-29 13:49:37,573 - INFO - {'Database connection established successfully by user': 'postgres'}
+2023-10-29 13:49:38,867 - INFO - Device Name: Motion sensor
+2023-10-29 13:49:38,867 - INFO - Status Data: {'temperature': 3674.5960396313512, 'motion': 'active', 'battery': 37}
+2023-10-29 13:49:38,871 - INFO - Motion sensor data inserted into the table.
+2023-10-29 13:49:39,174 - INFO - Device Name: Locker
+2023-10-29 13:49:39,174 - INFO - Status Data: {'lock': 'locked', 'battery': 73}
+2023-10-29 13:49:39,178 - INFO - Locker data inserted into the table.
+2023-10-29 13:49:44,181 - INFO - Sleeping for 5 seconds: 
+2023-10-29 13:49:50,941 - INFO - Sleeping for 5 seconds: 
+2023-10-29 13:49:57,545 - INFO - Sleeping for 5 seconds: 
+2023-10-29 13:50:06,401 - INFO - Sleeping for 5 seconds: 
+2023-10-29 13:50:13,013 - INFO - Sleeping for 5 seconds: 
+2023-10-29 13:50:19,818 - INFO - Sleeping for 5 seconds: 
+2023-10-29 13:50:26,573 - INFO - Sleeping for 5 seconds: 
+2023-10-29 13:50:33,157 - INFO - Sleeping for 5 seconds: 
+2023-10-29 13:50:39,886 - INFO - Sleeping for 5 seconds: 
+2023-10-29 13:50:46,645 - INFO - Sleeping for 5 seconds: 
+2023-10-29 13:50:53,402 - INFO - Sleeping for 5 seconds: 
+2023-10-29 13:51:00,163 - INFO - Sleeping for 5 seconds: 
+2023-10-29 13:51:06,945 - INFO - Sleeping for 5 seconds: 
+2023-10-29 13:51:13,681 - INFO - Sleeping for 5 seconds: 
+2023-10-29 13:51:20,437 - INFO - Sleeping for 5 seconds: 
+2023-10-29 13:51:26,997 - INFO - Sleeping for 5 seconds: 
+2023-10-29 13:51:34,088 - INFO - Sleeping for 5 seconds: 
+2023-10-29 13:51:41,069 - INFO - Sleeping for 5 seconds: 
+2023-10-29 13:51:48,027 - INFO - Sleeping for 5 seconds: 
+2023-10-29 13:51:54,929 - INFO - Sleeping for 5 seconds: 
+2023-10-29 13:52:01,777 - INFO - Sleeping for 5 seconds: 
+2023-10-29 13:52:08,341 - INFO - Sleeping for 5 seconds: 
+2023-10-29 13:52:14,852 - INFO - Sleeping for 5 seconds: 
+2023-10-29 13:52:21,565 - INFO - Sleeping for 5 seconds: 
+2023-10-29 13:52:28,121 - INFO - Sleeping for 5 seconds: 
+2023-10-29 13:52:34,985 - INFO - Sleeping for 5 seconds: 
+2023-10-29 15:50:08,009 - INFO - {'Database connection established successfully by user': 'postgres'}
+2023-10-29 15:50:10,510 - INFO - Device Name: Motion sensor
+2023-10-29 15:50:10,511 - INFO - Status Data: {'temperature': 3674.5960396313512, 'motion': 'active', 'battery': 37}
+2023-10-29 15:50:10,513 - INFO - Table created successfully.
+2023-10-29 15:50:10,817 - INFO - Device Name: Locker
+2023-10-29 15:50:10,818 - INFO - Status Data: {'lock': 'locked', 'battery': 73}
+2023-10-29 15:50:10,820 - INFO - Table created successfully.
+2023-10-29 15:55:22,091 - INFO - {'Database connection established successfully by user': 'postgres'}
+2023-10-29 15:55:24,373 - INFO - Device Name: Motion sensor
+2023-10-29 15:55:24,374 - INFO - Status Data: {'temperature': 3674.5960396313512, 'motion': 'active', 'battery': 37}
+2023-10-29 15:55:24,377 - INFO - Table created successfully.
+2023-10-29 15:55:24,681 - INFO - Device Name: Locker
+2023-10-29 15:55:24,681 - INFO - Status Data: {'lock': 'unlocked', 'battery': 73}
+2023-10-29 15:55:24,683 - INFO - Table created successfully.
+2023-10-29 15:55:39,835 - INFO - Device Name: Locker
+2023-10-29 15:55:39,835 - INFO - Status Data: {'lock': 'locked', 'battery': 73}
+2023-10-29 15:55:39,841 - INFO - Table created successfully.
+2023-10-29 15:55:47,208 - INFO - Device Name: Locker
+2023-10-29 15:55:47,209 - INFO - Status Data: {'lock': 'unlocked', 'battery': 73}
+2023-10-29 15:55:47,211 - INFO - Table created successfully.
+2023-10-29 15:55:54,479 - INFO - Device Name: Locker
+2023-10-29 15:55:54,479 - INFO - Status Data: {'lock': 'locked', 'battery': 73}
+2023-10-29 15:55:54,481 - INFO - Table created successfully.
+2023-10-29 15:56:02,262 - INFO - Device Name: Locker
+2023-10-29 15:56:02,262 - INFO - Status Data: {'lock': 'unlocked', 'battery': 73}
+2023-10-29 15:56:02,264 - INFO - Table created successfully.
+2023-10-29 15:56:09,634 - INFO - Device Name: Locker
+2023-10-29 15:56:09,634 - INFO - Status Data: {'lock': 'locked', 'battery': 73}
+2023-10-29 15:56:09,636 - INFO - Table created successfully.
+2023-10-29 18:56:20,657 - INFO - Device Name: Motion sensor
+2023-10-29 18:56:20,658 - INFO - Status Data: {'temperature': 3674.5960396313512, 'motion': 'active', 'battery': 37}
+2023-10-29 18:56:20,659 - INFO - Table created successfully.
+2023-10-29 18:56:20,966 - INFO - Device Name: Locker
+2023-10-29 18:56:20,967 - INFO - Status Data: {'lock': 'locked', 'battery': 73}
+2023-10-29 18:56:20,968 - INFO - Table created successfully.
