@@ -3,7 +3,7 @@ sudo truncate -s 0 /home/magabe/software/LearningStuff/C++/cos700/FinalPapers/sm
 
 sudo docker build -t smartthingsapp .
 
-docker run -v /home/magabe/software/LearningStuff/C++/cos700/FinalPapers/smartthingsapp:/app/log --network host smartthingsapp
+docker run -v smartthingsapp:/app/log --network host smartthingsapp
 
 
 
